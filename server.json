@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.calcupedia/calcupedia",
+  "title": "Calcupedia",
+  "description": "2,400+ calculators and unit converters with exact results and a live calculator card in the chat.",
+  "version": "1.0.1",
+  "websiteUrl": "https://calcupedia.io/mcp",
+  "icons": [
+    {
+      "src": "https://calcupedia.io/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://calcupedia.io/api/mcp"
+    }
+  ]
+}

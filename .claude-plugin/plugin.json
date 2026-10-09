@@ -1,0 +1,20 @@
+{
+  "name": "calcupedia",
+  "displayName": "Calcupedia",
+  "version": "1.0.0",
+  "description": "2,400+ calculators and unit converters with exact results and a live calculator card in the chat.",
+  "author": {
+    "name": "Odeh Ahwal",
+    "email": "hi@odehahwal.com",
+    "url": "https://calcupedia.io"
+  },
+  "homepage": "https://calcupedia.io/mcp",
+  "repository": "https://github.com/OdehAhwal/calcupedia-mcp",
+  "license": "MIT",
+  "keywords": ["calculator", "unit-converter", "mortgage", "finance", "math", "mcp"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://calcupedia.io/mcp",
+  "supportUrl": "https://github.com/OdehAhwal/calcupedia-mcp/issues",
+  "privacyPolicyUrl": "https://calcupedia.io/privacy#mcp",
+  "termsOfServiceUrl": "https://calcupedia.io/terms"
+}

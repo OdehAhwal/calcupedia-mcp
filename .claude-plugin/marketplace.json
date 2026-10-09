@@ -1,0 +1,14 @@
+{
+  "name": "calcupedia",
+  "owner": {
+    "name": "Odeh Ahwal",
+    "email": "hi@odehahwal.com"
+  },
+  "plugins": [
+    {
+      "name": "calcupedia",
+      "source": "./",
+      "description": "2,400+ calculators and unit converters with exact results and a live calculator card in the chat."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "calcupedia": {
+      "type": "http",
+      "url": "https://calcupedia.io/api/mcp?client=claude"
+    }
+  }
+}
